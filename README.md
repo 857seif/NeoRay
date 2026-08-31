@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="neoray_icon.png" width="72" height="72" align="absmiddle"/> NEORAY
+# NEORAY
 
 ### Unlock Frame Generation & DLSS for every GPU
 
